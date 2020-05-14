@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c1c6dfe.chunk.css",
+    "main.js": "/static/js/main.68ba1219.chunk.js",
+    "main.js.map": "/static/js/main.68ba1219.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e4b9196.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e4b9196.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9c342448.chunk.js": "/static/js/2.9c342448.chunk.js",
+    "static/js/2.9c342448.chunk.js.map": "/static/js/2.9c342448.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c16b1e58635f1a730e26532f16f90c1d.js": "/precache-manifest.c16b1e58635f1a730e26532f16f90c1d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6c1c6dfe.chunk.css.map": "/static/css/main.6c1c6dfe.chunk.css.map",
+    "static/js/2.9c342448.chunk.js.LICENSE.txt": "/static/js/2.9c342448.chunk.js.LICENSE.txt",
+    "static/media/clinicx.png": "/static/media/clinicx.0983580b.png",
+    "static/media/home.jpg": "/static/media/home.9954777a.jpg",
+    "static/media/majed.jpg": "/static/media/majed.838b7bab.jpg",
+    "static/media/measurement.jpg": "/static/media/measurement.b8444a3d.jpg",
+    "static/media/mywebapp_main.jpg": "/static/media/mywebapp_main.7eb2a1f3.jpg",
+    "static/media/mywebapp_splash.png": "/static/media/mywebapp_splash.bb9d2291.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e4b9196.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9c342448.chunk.js",
+    "static/css/main.6c1c6dfe.chunk.css",
+    "static/js/main.68ba1219.chunk.js"
+  ]
+}
