@@ -19,7 +19,7 @@ class App extends Component {
             <img
               className="profile-pic rounded-circle"
               src={Me}
-              alt="majed-img"
+              alt="profile-img"
             />
             <h1 className="mt-4">Majed Nuseibeh</h1>
             <h2>Mobile application and Software Developer</h2>
@@ -27,6 +27,7 @@ class App extends Component {
           <img
             src="http://erikdkennedy.com/r-r-r-random/divider-triangle.png"
             className="divider"
+            alt="divider"
           />
         </div>
         {/* About Section */}
